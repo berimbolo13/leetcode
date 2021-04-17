@@ -4,6 +4,9 @@ import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
 
+/**
+ * Given the root of a binary tree, return the sum of values of its deepest leaves.
+ */
 public class Solution {
     public int deepestLeavesSum(TreeNode root) {
 
